@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/one"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/two"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/three"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/four"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/five"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/six"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/seven"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/eight"/>
+
+</animation-list>
+
+    <!--
+          Image Credits: http://epod.usra.edu/.a/6a0105371bb32c970b0147e116793b970b-750wi
+          In this xml we set a sequence of images that should be displayed one after another
+            1. Duration as 500 milli seconds
+            2. drawable - image files
+    -->
